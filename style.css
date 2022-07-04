@@ -31,10 +31,6 @@ body{
 }
 
 section {
-    display: flex;
-}
-
-div{
     margin: 100px 50px 100px 50px;
 }
 
@@ -69,4 +65,16 @@ div{
 }
 #section1{
     /* background-image: url(images/bc.jpg); */
+    display: flex;
+    margin: 100px 50px 100px 50px;
+}
+
+.flexi{
+    display: flex;
+
+}
+.subhead{
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 500;
 }
