@@ -71,10 +71,29 @@ section {
 
 .flexi{
     display: flex;
+    margin-top: 50px;
 
 }
 .subhead{
+    text-align: center;
     font-size: 22px;
     line-height: 30px;
+    font-weight: 700;
+    color: #72DDF7;
+}
+.box-text{
+    color: white;
+    font-size: 16px;
+    line-height: 22px;
     font-weight: 500;
+
+}
+.box-color{
+    background-color: #565254;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px #878a8f;
+    margin-right: 100px;
+    margin-right: 100px;
+    padding: 20px 40px;
+    border-left: 10px solid #0B79AB;
 }
